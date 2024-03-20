@@ -1,0 +1,7 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\Shelby\source\repos\SWilliams_SlayTheWordle\WordBank.h(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+C:\Users\Shelby\source\repos\SWilliams_SlayTheWordle\WordBank.h(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SWilliams_SlayTheWordle.vcxproj -> C:\Users\Shelby\source\repos\SWilliams_SlayTheWordle\Debug\SWilliams_SlayTheWordle.exe

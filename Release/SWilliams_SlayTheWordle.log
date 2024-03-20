@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CharacterLabel.cpp
+  CppCLR_WinformsProjekt.cpp
+C:\Users\Shelby\source\repos\SWilliams_SlayTheWordle\WordBank.h(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FiveLetterWordBank.cpp
+C:\Users\Shelby\source\repos\SWilliams_SlayTheWordle\WordBank.h(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Form1.cpp
+  Game.cpp
+C:\Users\Shelby\source\repos\SWilliams_SlayTheWordle\WordBank.h(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SevenLetterWordBank.cpp
+C:\Users\Shelby\source\repos\SWilliams_SlayTheWordle\WordBank.h(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SixLetterWordBank.cpp
+C:\Users\Shelby\source\repos\SWilliams_SlayTheWordle\WordBank.h(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WordBank.cpp
+C:\Users\Shelby\source\repos\SWilliams_SlayTheWordle\WordBank.h(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WordPanel.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  SWilliams_SlayTheWordle.vcxproj -> C:\Users\Shelby\source\repos\SWilliams_SlayTheWordle\Release\SWilliams_SlayTheWordle.exe
